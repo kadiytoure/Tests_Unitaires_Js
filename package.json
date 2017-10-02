@@ -1,0 +1,32 @@
+{
+    "name": "tests_unitaires_js",
+    "version": "1.0.0",
+    "description": "tests unitaires js",
+    "main": "index.js",
+    "scripts": {
+        "test": "karma start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kadiytoure/Tests_Unitaires_Js.git"
+    },
+    "keywords": [
+        "javascript",
+        "test",
+        "unitaires"
+    ],
+    "author": "kadiy tourekadiy@gmail.com",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/kadiytoure/Tests_Unitaires_Js/issues"
+    },
+    "homepage": "https://github.com/kadiytoure/Tests_Unitaires_Js#readme",
+    "devDependencies": {
+        "jasmine": "^2.8.0",
+        "karma": "^1.7.1",
+        "karma-jasmine": "^1.1.0"
+    },
+    "dependencies": {
+        "karma-firefox-launcher": "^1.0.1"
+    }
+}
